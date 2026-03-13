@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shit ass app</string>
+    <string name="counter_initial_value">0</string>
+    <string name="button_increment">Incrementar (+)</string>
+    <string name="button_decrement">Decrementar (-)</string>
+</resources>
